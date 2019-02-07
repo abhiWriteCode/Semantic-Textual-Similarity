@@ -1,1 +1,1 @@
-# Semantic Textual Similarity with with TF-Hub Universal Encoder Sentence embedding
+# Semantic Textual Similarity with TF-Hub Universal Encoder Sentence Embedding
